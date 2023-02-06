@@ -11,5 +11,4 @@ return {
   1996103038,
   343439469,
   1473854491,
-  game.Players.LocalPlayer.UserId,
 }
